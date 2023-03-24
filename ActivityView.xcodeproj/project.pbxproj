@@ -54,6 +54,8 @@
 		D194453129CD921400AFC941 /* ActivityView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
 		D194453529CD927A00AFC941 /* Window.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Window.swift; sourceTree = "<group>"; };
 		D194453729CD928C00AFC941 /* enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = enum.swift; sourceTree = "<group>"; };
+		D194453929CD95A900AFC941 /* Screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot1.png; sourceTree = "<group>"; };
+		D194453A29CD95A900AFC941 /* Screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,8 @@
 		D19444F929CD920000AFC941 = {
 			isa = PBXGroup;
 			children = (
+				D194453929CD95A900AFC941 /* Screenshot1.png */,
+				D194453A29CD95A900AFC941 /* Screenshot2.png */,
 				D194450429CD920000AFC941 /* ActivityView */,
 				D194451529CD920200AFC941 /* ActivityViewTests */,
 				D194451F29CD920200AFC941 /* ActivityViewUITests */,
